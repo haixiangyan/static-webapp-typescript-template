@@ -1,0 +1,1 @@
+# ts-static-webapp-template

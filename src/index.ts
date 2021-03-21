@@ -2,7 +2,7 @@ import './styles.css'
 import Icon from './icon.png';
 
 // Add title
-const text: string = 'A minimum template for building a web app with TypeScript'
+const text: string = 'A minimum template for building a static web app with TypeScript'
 
 const $content = document.querySelector('#content')
 

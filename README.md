@@ -2,6 +2,8 @@
 
 A minimum template for building a static web app with TypeScript.
 
+![Demo Show](http://yanhaixiang.com/static-webapp-typescript-template/)
+
 ## How to use
 
 ```shell

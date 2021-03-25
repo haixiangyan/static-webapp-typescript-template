@@ -9,17 +9,6 @@
     "deploy": "npm run build && node deploy.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Haixiang6123/ts-static-webapp-template.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Haixiang6123/ts-static-webapp-template/issues"
-  },
-  "homepage": "https://github.com/Haixiang6123/ts-static-webapp-template#readme",
   "devDependencies": {
     "compression-webpack-plugin": "^7.1.2",
     "css-loader": "^5.1.3",
